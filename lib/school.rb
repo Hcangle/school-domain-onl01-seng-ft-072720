@@ -15,9 +15,10 @@ def grade(class_list)
  def sort 
    student_list = {}
    roster.each do |grade, students|
-   grade[grade] = students.sort  
+   student_list[grade] = students.sort  
    
- end
+   end
+   
  end
      
      
