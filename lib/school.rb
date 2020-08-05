@@ -9,8 +9,8 @@ def add_student(student_name, grade)
   roster[grade] << student_name 
   
 end
-def grade(studen_name)
-   roster[student_name]
+def grade(potato)
+   roster[potato]
  end
 end
 
