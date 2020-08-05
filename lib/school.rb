@@ -13,3 +13,4 @@ def grade(class_list)
    roster[class_list]
  end
 end
+
