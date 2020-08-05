@@ -13,8 +13,10 @@ def grade(class_list)
    roster[class_list]
  end
  def sort 
+   student_list = {}
    roster.each do |grade, students|
      
+   
      
      
      
