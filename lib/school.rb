@@ -9,6 +9,6 @@ def add_student(student_name, grade)
   roster[grade] << student_name 
   
 end
-def grade()
+def grade(class_list)
    @roster = { grade => [studen_name] }
 end
