@@ -17,7 +17,7 @@ def grade(class_list)
    roster.each do |grade, students|
    students.sort  
  end
-   
+ end
      
      
      
