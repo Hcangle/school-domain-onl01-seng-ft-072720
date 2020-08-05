@@ -10,6 +10,6 @@ def add_student(student_name, grade)
   
 end
 def grade(class_list)
-   @roster = { grade => [studen_name] }
+   @roster = { grade, [studen_name] }
  end
 end
