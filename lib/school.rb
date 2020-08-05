@@ -10,4 +10,5 @@ def add_student(student_name, grade)
   
 end
 def grade()
+   @roster = { grade => [studen_name] }
 end
