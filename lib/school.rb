@@ -18,7 +18,7 @@ def grade(class_list)
    student_list[grade] = students.sort  
    
    end
-   
+   student_list
  end
      
      
